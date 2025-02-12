@@ -1,0 +1,5 @@
+Game Over
+You guessed 0 out of 3 colors correctly.
+Date of Birth: 03/21/2006
+Username: John
+User Description: Student
